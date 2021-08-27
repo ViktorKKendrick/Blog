@@ -1,1 +1,5 @@
 This is my first blog post!
+Week One of Awesome Inc. BootCamp Fall 2021
+This first week has definitely been a bit weird for me. I expected to start learning code itself and getting used to the way a certain language works or something along those lines. Instead we learned how to use GitHub and how to connect a repository from CodeAnywhere to GitHub to upload our work. We aswell made a blog, however strange it may be at first, it makes sense. The blog is a great way to keep an update with your current progress and projects.
+One thing I am excited to learn more about is the projects in CodeAnywhere we will be doing, and just using CodeAnywhere in general. The reason being, I am more comfortable in an IDE such as CodeAnywhere. I am still not comfortable working with GitHub, but within the next 16 weeks of this bootcamp, I plan on being proficient in it. 
+The rest of this blog for the next 16 weeks will be for presenting my progress with learning code and projects as I continue through the 16 weeks of the Bootcamp. I hope that when I look back to this post and later posts as time goes on, that I can see the change in knowledge that I have aquired.
