@@ -19,7 +19,7 @@ ___
 * When solving a problem, if I have time, I try every solution I can think of that involves the problem. If I end up not having the time, I reach out to someone more experienced than me to help me out. Most of the problems I have can be solved very easily, so I don't try and bother others with simple issue.
 
 ### Blog Post #3: It's Lasagna Time!
-### Week three
+#### *Week three*
 This week we worked on making a Silly Story generator, which takes parts of an array of Strings, and replaces them in a story. This makes the program generate an almost random story of different characters, places, and activities.
 Later, we then made an Alarm Clock. My clock was Garfield themed which included a background image of _The Garfield Show_ as well as the alarm sound was the opening intro of the old cartoon.
 It was interesting to say the least.
