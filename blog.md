@@ -55,3 +55,21 @@ not being in person hurt a bit, but other than slightly, I haven't had any hindr
 ###*How did you overcome challenges during Onboarding?*
 
 To overcome the challenges I just kept doing what I have been, it wasn't too challenging albeit annoying, not being in person.
+
+---
+##Onboarding Blog Post #5
+###*What is the number one thing that held you back this week? Why?*
+
+Boostrap was pretty easy, although some of its features is a little complicated to use. Defiantly a learning curve
+
+###*What is one thing you would like to learn more about regarding JavaScript (JSON, Data Structures), Bootstrap, or Atomic Design?*
+
+I would like to explore more on what bootstrap can do. In the future i would like to be able to see what I need and know what in bootstrap could help
+
+###*How does In-Person Bootcamp compare to Remote Onboarding?*
+
+In terms of being able to ask for help directly it is easier to do so in person. When at home you are more tempted to slack off and sleep in, so being in person helped keep my mind on focus
+
+###*What is your "Why"?*
+
+Why am I here? because it's my *hobby*.
